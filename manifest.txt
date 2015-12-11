@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: taylor.dandy.cs1410.A06RockPaperScissors.RockPaperScissors
+Main-Class: com.curvilinearllc.kass.Kass
 
